@@ -6,6 +6,7 @@
 - 📫 How to reach me 
 - LinkedIn:https://www.linkedin.com/in/veronicah-muthiga-721715174/
 - Email:veronicmuthiga@gmail.com
+- My Portfolio :https://veronicahmumbi.netlify.app/
 
 <!---
 mumbimuthiga/mumbimuthiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
